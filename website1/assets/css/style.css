@@ -3,9 +3,15 @@ body{
 }
 
 
-#imagen1{ width:340px;
-    
-}
+#imagen1{ width:340px;}
        
 
+
+
+.textimg{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 100%;
+  transform: translate(-50%, -50%);}
 
